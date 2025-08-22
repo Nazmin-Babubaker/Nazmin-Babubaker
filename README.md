@@ -1,7 +1,7 @@
 <!-- Typing SVG Banner -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=0E75B8&background=00000F&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nazmin;"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=B6F500&center=true&vCenter=true&width=700&lines=Hi,+I'm+Nazmin;"
     alt="Typing SVG"
   />
 </p>
