@@ -30,5 +30,11 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nazmin-Babubaker&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nazmin-Babubaker&theme=ocean_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmin-Babubaker&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Nazmin-Babubaker&icon=0&color=0)](https://visitcount.itsvg.in)
 
