@@ -1,5 +1,5 @@
 <!-- Typing SVG Banner -->
-<p align="center">
+<p>
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=B6F500&width=400&lines=Hi,+I'm+Nazmin;"
     alt="Typing SVG"
