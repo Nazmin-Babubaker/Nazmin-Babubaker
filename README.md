@@ -4,7 +4,6 @@
     src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=B6F500&width=400&lines=Hi,+I'm+Nazmin;"
     alt="Typing SVG"
   />
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ4MTM2aW1oMTdsYW5qYTEwemhtYzlsY3U5eHNiMzNwMDF1cW80NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="200" >
 </p>
 
 
