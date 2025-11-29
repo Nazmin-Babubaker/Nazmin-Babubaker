@@ -1,0 +1,58 @@
+<svg width="1000" height="900" viewBox="0 0 1000 900" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill:#000000; }
+    .titlebar { fill:#2c2c2c; }
+    .text { font-family:"Ubuntu Mono","Fira Code","Cascadia Code",monospace; font-size:18px; fill:#e5e5e5; white-space:pre; }
+    .username { fill:#E95420; font-weight:700; }
+    .key { fill:#D19A66; font-weight:600; }
+    .value { fill:#98c379; }
+    .section { fill:#C678DD; font-weight:700; }
+  </style>
+
+  <!-- Terminal background -->
+  <rect width="1000" height="900" rx="12" class="bg"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="1000" height="48" class="titlebar" rx="12"/>
+  <circle cx="26" cy="24" r="8" fill="#ff5f56"/>
+  <circle cx="52" cy="24" r="8" fill="#ffbd2e"/>
+  <circle cx="78" cy="24" r="8" fill="#27c93f"/>
+  <text x="120" y="30" class="text" style="font-size:14px;">shell@curiosity:~</text>
+
+  <!-- Content -->
+  <g transform="translate(30,80)">
+    <text class="text username" x="0" y="0">shell@curiosity:~$ neofetch</text>
+
+    <!-- Profile -->
+    <text class="text" x="0" y="46"><tspan class="key">User:</tspan> ......................... <tspan class="value">Nazmin Babu Baker</tspan></text>
+    <text class="text" x="0" y="76"><tspan class="key">Role:</tspan> ......................... <tspan class="value">CS Student | Backend Developer</tspan></text>
+    <text class="text" x="0" y="106"><tspan class="key">College:</tspan> ...................... <tspan class="value">3rd Year CSE</tspan></text>
+    <text class="text" x="0" y="136"><tspan class="key">Location:</tspan> ..................... <tspan class="value">Kerala, India</tspan></text>
+        <!-- Whoami -->
+    <text class="text username" x="0" y="215">shell@curiosity:~$ whoami</text>
+    <text class="text" x="0" y="250"><tspan class="value">A student with big dreams and a terminal full of unfinished code</tspan></text>
+
+    <!-- Skills -->
+    <text class="text username" x="0" y="326">shell@curiosity:~$ skills --list</text>
+
+    <text class="text" x="0" y="360"><tspan class="key">Backend:</tspan> ...................... <tspan class="value">Node.js, Express.js</tspan></text>
+    <text class="text" x="0" y="390"><tspan class="key">Databases:</tspan> .................... <tspan class="value">MongoDB, PostgreSQL, SQL</tspan></text>
+    <text class="text" x="0" y="420"><tspan class="key">Programming:</tspan> .................. <tspan class="value">C, Java, Python</tspan></text>
+    <text class="text" x="0" y="450"><tspan class="key">Frontend:</tspan> ...................... <tspan class="value">HTML, CSS</tspan></text>
+    <text class="text" x="0" y="480"><tspan class="key">Tools:</tspan> ........................ <tspan class="value">Git, GitHub, Rest.Client, REST APIs</tspan></text>
+    
+    <!-- Projects -->
+    <text class="text username" x="0" y="530">shell@curiosity:~$ projects</text>
+
+
+    <text class="text" x="0" y="560">1. RITRACK - <tspan class="value">Indoor/outdoor navigation with BFS and 360 rendering</tspan></text>
+    <text class="text" x="0" y="590">2. Service Provision - <tspan class="value">Worker/customer role switching system</tspan></text>
+    <text class="text" x="0" y="620">3. Dementia ML Study - <tspan class="value"> XAI, gender-wise feature importance</tspan></text>
+    <text class="text" x="0" y="650">4. Mentora - <tspan class="value">Auto-pause and MCQ generator</tspan></text>
+  <!-- Stats -->
+    <text class="text username" x="0" y="700">shell@curiosity:~$ stats</text>
+    <text class="text" x="0" y="730"><tspan class="key">Hackathons:</tspan> ................... <tspan class="value">4</tspan></text>
+    <text class="text" x="0" y="760"><tspan class="key">Bug Fix Ratio:</tspan>................. <tspan class="value">1 fix : 9 new errors</tspan></text>
+    
+  </g>
+</svg>
