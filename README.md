@@ -29,3 +29,44 @@ Computer Science student focusing on **Backend Development** and **Web Security*
 ![Nmap](https://img.shields.io/badge/Nmap-%234A4A4A.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="./mtr.png" alt="mtr" style="border-radius:10px;"/><br />
+      <b>MTRVisual</b><br />
+      <a href="https://github.com/Nazmin-Babubaker/mtrvisual">Repo</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="./track2.png" alt="Tractivity" style="border-radius:10px;"/><br />
+      <b>Tractivity</b><br />
+      <a href="https://github.com/Nazmin-Babubaker/Tracktivity">Repo</a>
+    </td>
+    <td align="center" width="33%" height="20%">
+      <img src="./context.png" alt="Color Extractor" style="border-radius:10px;"/><br />
+      <b>Contextual Explainer</b><br />
+      <a href="https://github.com/Nazmin-Babubaker/contextual-explainer">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./rit.png" alt="Project 4" style="border-radius:10px;"/><br />
+      <b>RIT Tracker</b><br />
+      <a href="https://github.com/Nazmin-Babubaker/RIT_TRACKER">Repo</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="./acc.png" alt="Project 5" style="border-radius:10px;"/><br />
+      <b>Adaptive Cruise Control</b><br />
+      <a href="https://github.com/Nazmin-Babubaker/Adaptive-Cruise-Control">Repo</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="./requestscope.png" alt="Project 6" style="border-radius:10px;"/><br />
+      <b>RequestScope</b><br />
+      <a href="https://github.com/Nazmin-Babubaker/request-visualiser">Repo</a>
+    </td>
+  </tr>
+</table>
+
+---
