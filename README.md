@@ -1,1 +1,1 @@
-![My SVG Image](./sa1rsx8hdxrmikfxrqi.svg)
+![My SVG Image](./nazmin_github_banner.svg)
