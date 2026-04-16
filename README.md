@@ -1,5 +1,4 @@
 ![My SVG Image](./nazmin_github_banner.svg)
-
 ##  About Me
 
 Computer Science student focusing on **Backend Development** and **Web Security**. I enjoy exploring network protocols, hunting for vulnerabilities, and building resilient web architectures. Always learning, always auditing. 💻🔒
@@ -30,7 +29,7 @@ Computer Science student focusing on **Backend Development** and **Web Security*
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table align="center">
   <tr>
@@ -69,6 +68,14 @@ Computer Science student focusing on **Backend Development** and **Web Security*
   </tr>
 </table>
 
----
+## 🏆 Achievements & Hackathons
 
----
+* **Top Maker** | Tink-her-hack 4.0 
+* **2nd Runner Up** | Tink-her-hack 3.0
+* **Participant** | CodeRecet 
+* **Participant** | TechThrive 
+* **Creative Fun** | Useless Project 
+
+## 📫 Connect with me
+[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](www.linkedin.com/in/nazmin-babu-baker)
+[ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ](https://www.instagram.com/nzabbkr)
