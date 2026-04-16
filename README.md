@@ -1,10 +1,10 @@
 ![My SVG Image](./nazmin_github_banner.svg)
 
-## ⚡ About Me
+##  About Me
 
 Computer Science student focusing on **Backend Development** and **Web Security**. I enjoy exploring network protocols, hunting for vulnerabilities, and building resilient web architectures. Always learning, always auditing. 💻🔒
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -36,37 +36,39 @@ Computer Science student focusing on **Backend Development** and **Web Security*
   <tr>
     <td align="center" width="33%">
       <img src="./mtr.png" alt="mtr" style="border-radius:10px;"/><br />
-      <b>MTRVisual</b><br />
-      <a href="https://github.com/Nazmin-Babubaker/mtrvisual">Repo</a>
+      <a href="https://github.com/Nazmin-Babubaker/mtrvisual"><b>MTRVisual</b></a><br />
+      <sub>Network hop visualization and latency tracker.</sub>
     </td>
     <td align="center" width="33%">
       <img src="./track2.png" alt="Tractivity" style="border-radius:10px;"/><br />
-      <b>Tractivity</b><br />
-      <a href="https://github.com/Nazmin-Babubaker/Tracktivity">Repo</a>
+      <a href="https://github.com/Nazmin-Babubaker/Tracktivity"><b>Tracktivity</b></a><br />
+      <sub>Activity point management system for KTU degree tracking.</sub>
     </td>
-    <td align="center" width="33%" height="20%">
-      <img src="./context.png" alt="Color Extractor" style="border-radius:10px;"/><br />
-      <b>Contextual Explainer</b><br />
-      <a href="https://github.com/Nazmin-Babubaker/contextual-explainer">Repo</a>
+    <td align="center" width="33%">
+      <img src="./context2.png" alt="Color Extractor" style="border-radius:10px;"/><br />
+      <a href="https://github.com/Nazmin-Babubaker/contextual-explainer"><b>Contextual-Explainer</b></a><br />
+      <sub>AI-driven tool for simplified technical concept explanations.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <img src="./rit.png" alt="Project 4" style="border-radius:10px;"/><br />
-      <b>RIT Tracker</b><br />
-      <a href="https://github.com/Nazmin-Babubaker/RIT_TRACKER">Repo</a>
+      <a href="https://github.com/Nazmin-Babubaker/RIT_TRACKER"><b>RIT-Tracker</b></a><br />
+       <sub>Indoor navigation and mapping for campus buildings.</sub>
     </td>
     <td align="center" width="33%">
       <img src="./acc.png" alt="Project 5" style="border-radius:10px;"/><br />
-      <b>Adaptive Cruise Control</b><br />
-      <a href="https://github.com/Nazmin-Babubaker/Adaptive-Cruise-Control">Repo</a>
+      <a href="https://github.com/Nazmin-Babubaker/Adaptive-Cruise-Control"><b>ACC</b></a><br />
+      <sub>Simulation of an Adaptive Cruise Control system architecture.</sub>
     </td>
     <td align="center" width="33%">
       <img src="./requestscope.png" alt="Project 6" style="border-radius:10px;"/><br />
-      <b>RequestScope</b><br />
-      <a href="https://github.com/Nazmin-Babubaker/request-visualiser">Repo</a>
+      <a href="https://github.com/Nazmin-Babubaker/request-visualiser"><b>RequestScope</b></a><br />
+      <sub>Visualizing web requests and headers for security auditing.</sub>
     </td>
   </tr>
 </table>
+
+---
 
 ---
