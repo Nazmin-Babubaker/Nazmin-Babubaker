@@ -63,7 +63,7 @@ Computer Science student focusing on **Backend Development** and **Web Security*
     <td align="center" width="33%">
       <img src="./requestscope.png" alt="Project 6" style="border-radius:10px;"/><br />
       <a href="https://github.com/Nazmin-Babubaker/request-visualiser"><b>RequestScope</b></a><br />
-      <sub>Visualizing web requests and headers for security auditing.</sub>
+      <sub>bts of a web request.</sub>
     </td>
   </tr>
 </table>
