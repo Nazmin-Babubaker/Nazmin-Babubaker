@@ -74,7 +74,11 @@ Computer Science student focusing on **Backend Development** and **Web Security*
 * **2nd Runner Up** | Tink-her-hack 3.0
 * **Participant** | CodeRecet 
 * **Participant** | TechThrive 
-* **Creative Fun** | Useless Project 
+* **Creative Fun** | Useless Project
+
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nazmin-Babubaker&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nazmin-Babubaker&theme=shadow_green&hide_border=false)<br/>
 
 ## 📫 Connect with me
 [ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](www.linkedin.com/in/nazmin-babu-baker)
